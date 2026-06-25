@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Đánh giá điều kiện cho vay")
+st.title("APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_ĐỀ TÀI 4_NGUYỄN HUỲNH NGỌC HÀ")
 
 # Nhập dữ liệu
 STV = st.number_input(
